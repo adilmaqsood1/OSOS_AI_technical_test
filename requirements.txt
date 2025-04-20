@@ -1,0 +1,17 @@
+tabulate
+tiktoken
+pdfplumber
+python-docx
+transformers
+torch
+faiss-cpu
+nomic
+llama-cpp-python
+langdetect
+groq
+arabic-reshaper
+python-bidi
+fpdf
+PyPDF2
+openai==0.28
+rouge_score
