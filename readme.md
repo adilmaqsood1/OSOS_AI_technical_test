@@ -62,7 +62,7 @@ The system follows a multi-stage workflow to achieve its goals:
 
 ## Installation and Setup
 
-1. **Clone the Repository:** `git clone [repository_url]`
+1. **Clone the Repository:** `git clone https://github.com/adilmaqsood1/OSOS_AI_technical_test.git`
 2. **Install Dependencies:** `pip install -r requirements.txt`
 3. **Install Fonts:** `apt-get install -y fonts-dejavu` (for Arabic support)
 4. **Configure API Key:** Store your Groq API key as an environment variable or in a user data file (`google.colab import userdata`).
@@ -93,6 +93,3 @@ The system follows a multi-stage workflow to achieve its goals:
 - **User Interface Development:** Create a more interactive and user-friendly interface for exploring the documents, asking questions, and visualizing the results.
 - **Knowledge Graph Integration:** Explore the possibility of building a knowledge graph from Dr. X's research to enable more structured and interconnected insights.
 
-## Disclaimer
-
-This project is a research prototype and is provided for illustrative purposes only. It is not intended for production use and may contain limitations or errors. The authors do not guarantee the accuracy or completeness of the information provided by the system.
